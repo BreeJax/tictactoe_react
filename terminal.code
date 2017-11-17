@@ -1,0 +1,2 @@
+rm -f src/*
+(This kills all code in a file without killing the file)
